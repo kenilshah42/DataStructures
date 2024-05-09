@@ -1,0 +1,14 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "array".(ƒó©Ïÿÿÿÿÿ8ã¾„Ü1
+L
+java:S1197
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ã¾„Ü1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°­İ˜8ä¾„Ü1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¯Ÿ¤üÿÿÿÿ8ä¾„Ü1
+L
+java:S1481"*Remove this unused "array" local variable.(ƒó©Ïÿÿÿÿÿ8ä¾„Ü1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ß»‰¦8ä¾„Ü1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³ËÄš8å¾„Ü1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëÉ³é8å¾„Ü1
+X	java:S125"<This block of commented-out lines of code should be removed.(Êÿ¿ü8å¾„Ü1

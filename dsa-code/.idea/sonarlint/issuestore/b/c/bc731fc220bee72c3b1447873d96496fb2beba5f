@@ -1,0 +1,10 @@
+
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ö¦ƒ…À1
+7
+java:S1220""Move this file to a named package.8Ö¦ƒ…À1
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Û¦ƒ…À1
+]	java:S125"<This block of commented-out lines of code should be removed.(„Åšîıÿÿÿÿ8Û¦ƒ…À1
+]	java:S125$"<This block of commented-out lines of code should be removed.(„Åšîıÿÿÿÿ8Û¦ƒ…À1
+T	java:S106@"9Replace this use of System.out or System.err by a logger.(¤¯ï18¾Áƒ…À1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(¤Ç¤«şÿÿÿÿ8ìË„…À1
