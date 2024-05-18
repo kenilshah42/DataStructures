@@ -240,6 +240,17 @@ public class CustomLinkedList {
         return 0;
     }
 
+    public void recursiveReverse(Node node){
+        if(node == tail){
+            head = tail;
+            return;
+        }
+        recursiveReverse(node.next);
+        tail.next = node;
+        tail = node;
+        tail.next = null;
+    }
+
     private class Node{
         private int value;
         private Node next;
