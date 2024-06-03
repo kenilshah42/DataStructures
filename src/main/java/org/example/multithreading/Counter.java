@@ -1,0 +1,1 @@
+package org.example.multithreading;public class Counter {    private int counter;    public synchronized void incrementCount() {        counter++;    }    public int getCount(){        return this.counter;    }}
